@@ -16,3 +16,6 @@
 é possivel pesquisar por data
 
 todos os dados sao mostrados no Treeview
+
+
+![image](https://user-images.githubusercontent.com/110548620/226143076-a8a130a4-a564-4633-9f3c-7af410f7c60e.png)
